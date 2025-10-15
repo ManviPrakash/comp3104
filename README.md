@@ -2,3 +2,6 @@
 
 # GitHub Action Status Badge
 [![CI](https://github.com/ManviPrakash/comp3104/actions/workflows/ci.yml/badge.svg)](https://github.com/ManviPrakash/comp3104/actions/workflows/ci.yml)
+
+
+doing the week 7 lab using the jenkins
